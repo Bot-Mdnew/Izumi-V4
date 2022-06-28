@@ -20,6 +20,7 @@ THANKS TO
 - Febri
 - Jojo
 - Christian ID
+- DaniBotz-Ofc
 
 Terimakasih*/
 "use strict";
